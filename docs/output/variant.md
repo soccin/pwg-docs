@@ -1,4 +1,4 @@
-# WES Pipeline Results Description (2016-12-30)
+# Variant Pipeline Results Description (2016-12-30)
 
 Version 3.1 (2016-12-30)
 
