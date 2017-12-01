@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-minimal
 layout: page
 title: BIC@MSKCC Documentation
 description: Documenation for BIC Pipelines
