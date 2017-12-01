@@ -1,10 +1,3 @@
----
-theme: jekyll-theme-minimal
-layout: page
-title: BIC@MSKCC Documentation
-description: Documenation for BIC Pipelines
----
-
 # Documenation for MSKCC Bioinformatics Core Pipelines
 
 ## Methods
