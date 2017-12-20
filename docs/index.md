@@ -1,4 +1,4 @@
-# Documenation for MSKCC Bioinformatics Core Pipelines
+# Documentation for MSKCC Bioinformatics Core Pipelines
 
 ## Methods
 The following are writeups for the methods for the various bioinformatics pipelines. 
