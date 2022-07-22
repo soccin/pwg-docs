@@ -9,7 +9,7 @@ We then compute the expression count matrix from the mapped reads using HTSeq (w
 
 The data was clustered in several ways using the normalized counts of all genes that a total of 10 counts when summed across all samples. 
 
-1. Hierarchical cluster with the correlation metric $(D_{ij} = 1 - cor(X_i,X_j))$ with the Pearson correlation on the normalized log2 expression values.
+1. Hierarchical cluster with the correlation metric (D_{ij} = 1 - cor(X_i,X_j)) with the Pearson correlation on the normalized log2 expression values.
 
 2. Multidimensional scaling
 
