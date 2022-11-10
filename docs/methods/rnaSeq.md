@@ -17,7 +17,7 @@ The data was clustered in several ways using the normalized counts of all genes 
 
 Heatmap are generated using the heatmap.2 function from the gplots R package. For the Heatmaps the top _100_ differentiall expressed genes are used. The data plot was the mean centered normalized log2 expression of the top 100 significant genes. 
 
-For human and mouse datasets we run a gene set analysis using GSEA (see [GSEA Info](https://www.gsea-msigdb.org/gsea/index.jsp) and [User Guide](https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html)) with gene sets from the Broad [mSigDb](http://software.broadinstitute.org/gsea/msigdb).
+For human and mouse datasets we run a gene set analysis using GSEA (see [GSEA Info](https://www.gsea-msigdb.org/gsea/index.jsp) and [User Guide](https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html)) with gene sets from the Broad [mSigDb](http://software.broadinstitute.org/gsea/msigdb). If a sample group has fewer than three samples, we run `GSEAPreranked` using log2 fold changes from DESeq.
 
 
 ## Program versions
