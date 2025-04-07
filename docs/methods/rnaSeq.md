@@ -3,7 +3,7 @@
 *Please note that the methods below are for projects delivered before April 7th, 2025.*
  
 *Methods for projects delivered after April 7th, 2025 can be found here:*
-[bic.mskcc.org/bic/resources/methods/nf-rnaseq-pipeline-methods](https://bic.mskcc.org/bic/resources/methods/nf-rnaseq-pipeline-methods)
+[bioinformatics.mskcc.org/bic/resources/methods/nf-rnaseq-pipeline-methods](https://bioinformatics.mskcc.org/bic/resources/methods/nf-rnaseq-pipeline-methods)
 
 ## Description
 
